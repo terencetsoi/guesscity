@@ -1,0 +1,15 @@
+*.orig
+*.py[cdo]
+.vscode/*
+ve*/*
+.pytest_cache/*
+.eggs/*
+*.egg-info/*
+build
+dist
+.coverage
+db.sqlite3
+*.log
+*.crt
+*.key
+.idea/
