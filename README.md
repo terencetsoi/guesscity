@@ -6,4 +6,6 @@
 
 # Running the Django app
 1. Use correct venv
-2. python manage.py runserver
+2. python manage.py migrate
+3. python manage.py runserver
+4. From browser, open http://localhost:8000
